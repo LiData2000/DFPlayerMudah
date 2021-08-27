@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LiData2000
-- 👀 I’m interested in Cpp programing and microcontroler like arduino and esp
-- 🌱 i'm now learning arduino programming and esp32
-
+Ini adalah contoh program arduino yang bisa di upload di microcontroler programming. 
+Problem pada mp3 player dengan ic MH2024K-16SS yang tidak bisa komunikasi serial dapat di atasi.
+silahkan mencoba
+jika ada kekurangan silahkan diskusi di chat
 
